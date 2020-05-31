@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "ejs": "~2.3.3",
+    "ejs": "~2.5.5",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-convert": "^1.2.0",
