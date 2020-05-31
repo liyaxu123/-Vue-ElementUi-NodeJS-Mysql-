@@ -1,0 +1,72 @@
+{
+  "id": "1651382",
+  "name": "fonts",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "354209",
+      "name": "生活服务",
+      "font_class": "iconfontshenghuojiaofei",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "2019094",
+      "name": "学生",
+      "font_class": "xuesheng",
+      "unicode": "e7c0",
+      "unicode_decimal": 59328
+    },
+    {
+      "icon_id": "2768292",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "4734154",
+      "name": "权限",
+      "font_class": "ic_opt_feature",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "6299260",
+      "name": "楼宇",
+      "font_class": "icon-",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "8361810",
+      "name": "统计",
+      "font_class": "tongji1",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "10056226",
+      "name": "后勤物资",
+      "font_class": "houqinwuzi",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "10314094",
+      "name": "宿舍",
+      "font_class": "sushe",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "6077736",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
